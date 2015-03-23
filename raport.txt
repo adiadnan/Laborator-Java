@@ -1,0 +1,16 @@
+
+
+	   Comedii:
+   Nume: Salut
+   Date of release: 12.2.2010
+   Rating on IMBD: 1.23
+   IMBD link: http://www.imdb.com/title/tt1234
+
+
+	   Drama:
+
+
+	   Actiune:
+
+
+	   Thriller:
